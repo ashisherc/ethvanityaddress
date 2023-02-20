@@ -1,3 +1,7 @@
+
+# This was a hobby project, and is not recommend to be used
+
+
 # BIP39 ETH Vanity Address Generator
 
 > Vanity Address generator for ETH using BIP39 mnemonic phrase
